@@ -1,5 +1,6 @@
 Mini Product Listing Store :
 A minimalist React + Vite e-commerce demo with category filtering, product details, and a pop-out cart accessible from the navbar. Fast, responsive, modular, and powered by Fake Store API.
+https://miniprojectsp.netlify.app/
 
 🚀 Features :
 
