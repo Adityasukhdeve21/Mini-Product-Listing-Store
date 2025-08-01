@@ -44,7 +44,7 @@ npm install axios react-router-dom
 
 npm run dev
 
-5. Open in Browser
+4. Open in Browser
 
 Visit [http://localhost:5173]
 
